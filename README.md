@@ -33,10 +33,10 @@
       <li><strong>Methodologies</strong>: Agile, Scrum</li>
     </ul>
   </div>
-
+  
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="white-space: nowrap;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=linskay&theme=dark&border=transparent&locale=ru&short_numbers=&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
@@ -53,6 +53,8 @@
     </ul>
   </div>
 </div>
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=linskay&theme=onedark" alt="Trophy" />
