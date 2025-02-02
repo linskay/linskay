@@ -35,12 +35,19 @@
   </div>
 
   <h3 align="center">📊 GitHub Stats</h3>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=linskay&theme=dark&border=FFFFFF00&locale=ru&short_numbers=&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=linskay&theme=darcula&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  </div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=linskay&theme=dark&border=FFFFFF00&locale=ru&short_numbers=&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=linskay&theme=darcula&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
   <h2 align="center">📚 What I'm Learning</h2>
   <div align="center">
