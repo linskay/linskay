@@ -5,7 +5,7 @@
   
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=950&color=A14D3D&center=true&width=435&lines=I'm+a+beginner+Java+backend+developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=950&color=A14D3D&center=true&width=435&lines=I'm+a+Java+backend+developer" alt="Typing SVG" />
     </a>
   </h3>
 
@@ -22,17 +22,44 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  <h2 align="center">🛠️ My Skills</h2>
-  <div align="center">
-    <ul style="display: inline-block; text-align: left;">
-      <li><strong>Backend Development</strong>: Java, Spring Boot, RESTful APIs</li>
-      <li><strong>Databases</strong>: Designing database schemas, working with PostgreSQL, MySQL</li>
-      <li><strong>Testing</strong>: Automated testing (JUnit, Mockito)</li>
-      <li><strong>Documentation</strong>: JavaDoc, Swagger for API documentation</li>
-      <li><strong>Tools</strong>: Git (GitHub/GitLab), Jira, CI/CD</li>
-      <li><strong>Methodologies</strong>: Agile, Scrum</li>
-    </ul>
-  </div>
+<h2 align="center">🛠️ My Skills</h2>
+<div align="center">
+  <table style="width: 80%; border-collapse: collapse;">
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Category</th>
+      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Skills</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Backend Development</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Java, Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Apache Kafka, REST API, Spring Cloud</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Databases</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">PostgreSQL, MySQL, MongoDB, Redis</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Testing</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">JUnit 5, Mockito, AssertJ, Spring Boot Test</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Tools</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Docker, Maven, Gradle, Git (GitHub/GitLab/Bitbucket), IntelliJ IDEA, VS Code</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Documentation</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Swagger/OpenAPI, Javadoc, Markdown</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Frontend Basics</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Methodologies</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Agile, Scrum</td>
+    </tr>
+  </table>
+</div>
+
   
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -43,29 +70,52 @@
   <img src="https://github-readme-stats.vercel.app/api?username=linskay&theme=darcula&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
-  <h2 align="center">📚 What I'm Learning</h2>
-  <div align="center">
-    <ul style="display: inline-block; text-align: left;">
-      <li>Modern approaches to microservices development</li>
-      <li>Database performance optimization</li>
-      <li>Integration with cloud services (AWS, Docker, Kubernetes)</li>
-      <li>Game development and web development</li>
-    </ul>
+<h2 align="center">📚 What I'm Learning</h2>
+
+<div align="center">
+  <div style="display: inline-block; text-align: left;">
+    <div><strong>🚀 Modern Approaches to Microservices Development</strong>: Designing scalable and resilient systems using Spring Cloud, Docker, and Kubernetes.</div>
+    <div><strong>📊 Database Performance Optimization</strong>: Improving query performance, indexing strategies, and database design.</div>
+    <div><strong>☁️ Cloud Integration</strong>: Working with AWS, Docker, and Kubernetes to deploy and manage applications in the cloud.</div>
+    <div><strong>🎮 Game Development</strong>: Exploring game engines like Unity and Unreal Engine to create engaging games.</div>
+    <div><strong>🌐 Web Development</strong>: Deepening my knowledge of JavaScript, React, and Vue.js for building modern web applications.</div>
   </div>
 </div>
 
-
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=linskay&theme=onedark" alt="Trophy" />
 </p>
 
+<h2 align="center">🎯 My Interests</h2>
+
+<div align="center">
+  I am passionate about exploring new technologies and solving complex problems. My current interests include:
+</div>
+
+<div align="center">
+  <div style="display: inline-block; text-align: left;">
+    <div><strong>🎮 Game Development</strong>: Creating immersive and interactive experiences using modern game engines and tools.</div>
+    <div><strong>🤖 Machine Learning & Artificial Intelligence</strong>: Building intelligent systems and exploring data-driven solutions.</div>
+    <div><strong>🌐 Frontend Development</strong>: Mastering JavaScript and modern frameworks like React, Angular, and Vue.js to build dynamic and responsive user interfaces.</div>
+    <div><strong>⚙️ Code Optimization & Quality</strong>: Striving to write clean, efficient, and maintainable code.</div>
+  </div>
+</div>
+
+---
+
 <h3 align="center">📞 Contact me</h3> 
 
 <div align="center">
+  <!-- Кнопка Telegram -->
   <a href="https://t.me/samtakoy4" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alina.cheremiskina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
   <br /> 
   <img src="https://komarev.com/ghpvc/?username=linskay&color=orange" alt="Profile views" />
 </div>
