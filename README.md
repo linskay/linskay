@@ -1,127 +1,150 @@
-<div align="center">
-  <h1>𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 <a href="здесь ссыль на страницу куда нить" target="_blank">𝒜𝓁𝒾𝓃𝒶</a> 
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </h1>
-  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div>
+  <div align="center">
+  <h3 style="font-family: 'Brush Script MT', cursive; color: #8A2BE2;">
+    𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 <a href="https://t.me/debugGod" target="_blank" style="color: #9370DB;">𝒜𝓁𝒾𝓃𝒶</a> 
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdzZjl3ZXlkMTlzYjhyeDB5bDAwaGtxZDB6cGpiZXFscjZ0cXVpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JHW68SH9ut8aJd7r0/giphy.gif" width="50"/>
+  </h3>
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=950&color=A14D3D&center=true&width=435&lines=I'm+a+Java+backend+developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Turning+bugs+into+features;Coffee+%26+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
     </a>
-  </h3>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<h2 align="center">🛠️ My Skills</h2>
-<div align="center">
-  <table style="width: 80%; border-collapse: collapse;">
-    <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Category</th>
-      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Skills</th>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Backend Development</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Java, Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Apache Kafka, REST API, Spring Cloud</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Databases</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">PostgreSQL, MySQL, MongoDB, Redis</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Testing</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">JUnit 5, Mockito, AssertJ, Spring Boot Test</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Tools</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Docker, Maven, Gradle, Git (GitHub/GitLab/Bitbucket), IntelliJ IDEA, VS Code</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Documentation</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Swagger/OpenAPI, Javadoc, Markdown</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Frontend Basics</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">HTML, CSS, JavaScript</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Methodologies</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Agile, Scrum</td>
-    </tr>
-  </table>
+  </h3>  
 </div>
 
-  
-<h3 align="center">📊 GitHub Stats</h3>
+![GitHub Stats SVG](https://stats-svg.vercel.app/api/github-status?username=linskay)
 
-<div align="center" style="white-space: nowrap;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=linskay&theme=dark&border=transparent&locale=ru&short_numbers=&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=linskay&theme=darcula&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Leetcode Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">📚 What I'm Learning</h2>
+![LeetCode Stats](https://leetcard.jacoblin.cool/linskay?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![photo-2025-05-14-21-24-47.png](https://i.postimg.cc/dVLNcVzk/photo-2025-05-14-21-24-47.png)](https://postimg.cc/9DHYGCXC)
 
-<div align="center">
-  <div style="display: inline-block; text-align: left;">
-    <div><strong>🚀 Modern Approaches to Microservices Development</strong>: Designing scalable and resilient systems using Spring Cloud, Docker, and Kubernetes.</div>
-    <div><strong>📊 Database Performance Optimization</strong>: Improving query performance, indexing strategies, and database design.</div>
-    <div><strong>☁️ Cloud Integration</strong>: Working with AWS, Docker, and Kubernetes to deploy and manage applications in the cloud.</div>
-    <div><strong>🎮 Game Development</strong>: Exploring game engines like Unity and Unreal Engine to create engaging games.</div>
-    <div><strong>🌐 Web Development</strong>: Deepening my knowledge of JavaScript, React, and Vue.js for building modern web applications.</div>
-  </div>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<details>
+<summary>✨ <b>Click for motivational quote</b></summary>
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=linskay&theme=onedark" alt="Trophy" />
-</p>
-
-<h2 align="center">🎯 My Interests</h2>
-
 <div align="center">
-  I am passionate about exploring new technologies and solving complex problems. My current interests include:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+</details>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#1a0633'}}}%%
+flowchart TD
+    %% Стили компонентов
+    classDef core fill:#8A2BE2,stroke:#00f7ff,stroke-width:3px,stroke-dasharray:5
+    classDef backend fill:#1a0633,stroke:#00f7ff,stroke-width:2px
+    classDef frontend fill:#1a0633,stroke:#ff00aa,stroke-width:2px
+    classDef devops fill:#1a0633,stroke:#00ffaa,stroke-width:2px
+    classDef database fill:#1a0633,stroke:#ff5500,stroke-width:2px,stroke-dasharray:3 3
+    classDef tools fill:#1a0633,stroke:#ffcc00,stroke-width:2px
+
+    %% Центральное ядро
+    C(("🌌 Core<br>Skills")):::core
+
+    %% Backend Galaxy
+    subgraph "Backend Galaxy"
+        B1["Java"]:::backend
+        B2["Spring"]:::backend
+        B3["Hibernate"]:::backend
+    end
+
+    %% Frontend Nebula
+    subgraph "Frontend Nebula"
+        F1["HTML5"]:::frontend
+        F2["CSS3"]:::frontend
+        F3["JavaScript"]:::frontend
+    end
+
+    %% DevOps Wormhole
+    subgraph "DevOps Wormhole"
+        D1["Docker"]:::devops
+        D2["Kubernetes"]:::devops
+        D3["AWS"]:::devops
+    end
+
+    %% Database Cluster
+    DB1["PostgreSQL"]:::database
+    DB2["MongoDB"]:::database
+    DB3["Redis"]:::database
+
+    %% Tools Comet Tail
+    T1["IntelliJ"]:::tools
+    T2["Git"]:::tools
+    T3["Maven"]:::tools
+
+    %% Двунаправленные связи
+    C <--> B1 & B2 & B3
+    C <-.-> F1 & F2 & F3
+    C <==> D1 & D2 & D3
+    C o--o DB1 & DB2 & DB3
+    C -.- T1 & T2 & T3
+
+    %% Связи между компонентами
+    B1 <-.-> DB1
+    B2 <--> D1
+    F3 -.- DB2
+    D3 <==> T3
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <h3 style="color: #8A2BE2; font-family: 'Brush Script MT', cursive;">
+   (っ◔◡◔)っ 𝒯𝒽𝒶𝓉'𝓈 𝒶𝓁𝓁, 𝓈𝑒𝑒 𝓎𝑜𝓊 𝓁𝒶𝓉𝑒𝓇! 
+ <img src="https://media.giphy.com/media/12Bpme5pTzGmg8/giphy.gif" width="40"/>
+  </h3>
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Keep+coding+and+stay+awesome+%F0%9F%8C%9F;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
+    </a>
+  </h3>
 </div>
 
-<div align="center">
-  <div style="display: inline-block; text-align: left;">
-    <div><strong>🎮 Game Development</strong>: Creating immersive and interactive experiences using modern game engines and tools.</div>
-    <div><strong>🤖 Machine Learning & Artificial Intelligence</strong>: Building intelligent systems and exploring data-driven solutions.</div>
-    <div><strong>🌐 Frontend Development</strong>: Mastering JavaScript and modern frameworks like React, Angular, and Vue.js to build dynamic and responsive user interfaces.</div>
-    <div><strong>⚙️ Code Optimization & Quality</strong>: Striving to write clean, efficient, and maintainable code.</div>
-  </div>
-</div>
-
----
-
-<h3 align="center">📞 Contact me</h3> 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Communication Channels***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img align="right" width=100px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRheDJneHhmdmJkNGM0YTgzMjFzbjZkNWkzZmxvOTQ1NDZpYWY4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xvMUHIQ1Kt23vxW6IV/giphy.gif"/>
 
 <div align="center">
-  <!-- Кнопка Telegram -->
-  <a href="https://t.me/samtakoy4" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alina.cheremiskina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <br /> 
-  <img src="https://komarev.com/ghpvc/?username=linskay&color=orange" alt="Profile views" />
+
+[![Telegram](https://img.shields.io/badge/Cosmic_Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=#0088cc)](https://t.me/samtakoy4)
+[![LinkedIn](https://img.shields.io/badge/Pro_Galaxy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=#005182)](https://www.linkedin.com/in/alina-cheremiskina)
+[![YouTube](https://img.shields.io/badge/Video_Nebula-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=#cc0000)](https://youtube.com/your-channel)
+[![Email](https://img.shields.io/badge/Stellar_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=#a83232)](mailto:alina.cheremiskina@gmail.com)
+[![VK](https://img.shields.io/badge/Social_Cluster-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=#0055aa)](https://vk.com/cher_vl)
+[![Resume](https://img.shields.io/badge/Code_Archive-8A2BE2?style=for-the-badge&logo=git&logoColor=white&labelColor=#5c2d91)](https://linskay.github.io/)
+
 </div>
 
-<div align="center">
-  <h3>That's all, see you later! 🌟</h3>
-  <br />
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a0633', 'edgeLabelBackground':'#2a0a45', 'tertiaryColor':'#00f7ff'}, 'themeCSS': 'circle {filter: drop-shadow(0 0 5px #8A2BE2)}'}}%%
+graph TD
+    A(["🌌 Alina's Network"])
+    A -->|Code| B(("GitHub"))
+    A -->|Stream| C(("YouTube"))
+    A -->|Network| D(("LinkedIn"))
+    A -->|Chat| E(("Telegram"))
+    A -->|Social| F(("VK"))
+    A -->|Contact| G(("Email"))
+    A -->|Portal| H(("Resume"))
+    
+    style A fill:#1a0633,stroke:#00f7ff,stroke-width:3px,stroke-dasharray:5
+    style B fill:#181717,stroke:#fff
+    style C fill:#FF0000,stroke:#fff
+    style D fill:#0077B5,stroke:#fff
+    style E fill:#2CA5E0,stroke:#fff
+    style F fill:#0077FF,stroke:#fff
+    style G fill:#D14836,stroke:#fff
+    style H fill:#8A2BE2,stroke:#fff
+```
+
+
+<img src="https://komarev.com/ghpvc/?username=linskay&color=8A2BE2&style=flat-square" alt="Profile views">
